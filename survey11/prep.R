@@ -2,7 +2,7 @@
 # Also remove any invalid responses from the dataset
 
 library(tidyverse)
-
+setwd("survey11")
 # Question ids that contain response triplets (e.g. 5th, 50th, 95th percentile)
 qids <- c("QF2", "QF4", "QF5")
 
