@@ -14,9 +14,9 @@ distribution_qids <- c("QF1", "QF3")
 
 # really rough x-axis labels
 config <- hash()
-config[["QF1_title"]] <- "How many cases next Sunday"
+config[["QF1_title"]] <- "How many cases next Sunday?"
 config[["QF2_title"]] <- "Total current infections?"
-config[["QF3_title"]] <- "When will weeklydeaths fall below 5000?"
+config[["QF3_title"]] <- "When will weekly deaths fall below 5000?"
 config[["QF4_title"]] <- "Georgia infections by May 16"
 config[["QF5_title"]] <- "Georgia infections by May 16 if stay at home in place"
 
