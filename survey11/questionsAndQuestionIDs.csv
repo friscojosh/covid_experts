@@ -1,0 +1,87 @@
+questionLabel,questionText,QID
+Q0-1,"You are being invited to participate in a research study titled Aggregating expert opinion on COVID-19.  This study is being run by Thomas McAndrew and Nicholas G. Reich from the University of Massachusetts Amherst.  You were selected to participate in this study because you have been identified as an expert in infectious disease epidemiology, dynamics, and/or modeling. The purpose of this research study is to build a consensus of expert predictions related to the emerging COVID-19 outbreak. At the current time, the survey focuses on risks posed by COVID-19 to the United States.  To the best of our ability your specific answers in this study will remain confidential. Data that links your identity with your responses will be stored on a secure server. Data will be de-identified before analysis or sharing. Data on anonymized individual expert responses as well as aggregated responses may be presented in analyses or shared by the research team.  To lend credence to our results, we will release a list with the names and professional affiliations of all respondents. We believe this is critical to ensuring that the results of this study can be seen as representing a consensus opinion among experts in the field. 
+
+ 
+
+The UMass IRB has determined that this study does not qualify as human subjects research. 
+
+ 
+
+By clicking “I agree” below, you are giving us permission to send you weekly surveys and list your name and affiliation (which you will enter on the next page) as part of the public-facing results of this study. Experts names will be listed after participating in two surveys. We will also include participation rates for each expert in these releases. You may decide to not participate further at any time by sending an email to Tom McAndrew at mcandrew@umass.edu.",0
+QF1_1,"As shown in the table and figure above, COVID Tracker reported 959,056 total confirmed cases of COVID-19 in the US as of Monday, April 27th at 9am. What is the number of total confirmed cases in the US that COVID Tracker will have in the daily report this coming Sunday, May 3rd (1 week ahead)?
+
+We provided a set of ranges of possible confirmed cases. Assign a probability to each bin corresponding to your belief of how many cases will be reported next Sunday. Each number must be between 0 and 1 and all numbers provided must sum to 1. - Less than or equal to 1,050,000",1
+QF1_2,"As shown in the table and figure above, COVID Tracker reported 959,056 total confirmed cases of COVID-19 in the US as of Monday, April 27th at 9am. What is the number of total confirmed cases in the US that COVID Tracker will have in the daily report this coming Sunday, May 3rd (1 week ahead)?
+
+We provided a set of ranges of possible confirmed cases. Assign a probability to each bin corresponding to your belief of how many cases will be reported next Sunday. Each number must be between 0 and 1 and all numbers provided must sum to 1. - Greater than 1,050,000 and less than or equal to 1,100,000",2
+QF1_3,"As shown in the table and figure above, COVID Tracker reported 959,056 total confirmed cases of COVID-19 in the US as of Monday, April 27th at 9am. What is the number of total confirmed cases in the US that COVID Tracker will have in the daily report this coming Sunday, May 3rd (1 week ahead)?
+
+We provided a set of ranges of possible confirmed cases. Assign a probability to each bin corresponding to your belief of how many cases will be reported next Sunday. Each number must be between 0 and 1 and all numbers provided must sum to 1. - Greater than 1,100,000 and less than or equal to 1,150,000",3
+QF1_4,"As shown in the table and figure above, COVID Tracker reported 959,056 total confirmed cases of COVID-19 in the US as of Monday, April 27th at 9am. What is the number of total confirmed cases in the US that COVID Tracker will have in the daily report this coming Sunday, May 3rd (1 week ahead)?
+
+We provided a set of ranges of possible confirmed cases. Assign a probability to each bin corresponding to your belief of how many cases will be reported next Sunday. Each number must be between 0 and 1 and all numbers provided must sum to 1. - Greater than 1,150,000 and less than or equal to 1,200,000",4
+QF1_5,"As shown in the table and figure above, COVID Tracker reported 959,056 total confirmed cases of COVID-19 in the US as of Monday, April 27th at 9am. What is the number of total confirmed cases in the US that COVID Tracker will have in the daily report this coming Sunday, May 3rd (1 week ahead)?
+
+We provided a set of ranges of possible confirmed cases. Assign a probability to each bin corresponding to your belief of how many cases will be reported next Sunday. Each number must be between 0 and 1 and all numbers provided must sum to 1. - Greater than 1,200,000",5
+QF2_1,"As of Monday, April 27th how many total cumulative SARS-CoV-2 infections (including all symptomatic, subclinical, and asymptomatic infections) have there been in the US? Please report a 10th, 50th and 90th percentile. In other words give numbers for which you think there is a 1 in 10 chance the truth is below (10th percentile), 1 in 2 chance the truth is below (50th percentile) and 1 in 10 chance the truth is above (90th percentile). - 10th percentile",6
+QF2_2,"As of Monday, April 27th how many total cumulative SARS-CoV-2 infections (including all symptomatic, subclinical, and asymptomatic infections) have there been in the US? Please report a 10th, 50th and 90th percentile. In other words give numbers for which you think there is a 1 in 10 chance the truth is below (10th percentile), 1 in 2 chance the truth is below (50th percentile) and 1 in 10 chance the truth is above (90th percentile). - 50th percentile (median)",7
+QF2_3,"As of Monday, April 27th how many total cumulative SARS-CoV-2 infections (including all symptomatic, subclinical, and asymptomatic infections) have there been in the US? Please report a 10th, 50th and 90th percentile. In other words give numbers for which you think there is a 1 in 10 chance the truth is below (10th percentile), 1 in 2 chance the truth is below (50th percentile) and 1 in 10 chance the truth is above (90th percentile). - 90th percentile",8
+QF3_1,"Using data from the COVID tracker daily reports from the past five weeks (starting with the week ending Saturday March 28, through the week ending Saturday April 25), we have seen 1710, 6389, 12027, 13708, and 13788 new deaths reported each week in the US.
+
+ 
+
+Assign probabilities to the following dates, according to when you expect to see the weekly new reported deaths (as calculated using new reported deaths from Sunday through Saturday) first fall below 5,000. - On Saturday May 2 (from Sunday April 26th) or May 9 (from Sunday May 3rd)",9
+QF3_2,"Using data from the COVID tracker daily reports from the past five weeks (starting with the week ending Saturday March 28, through the week ending Saturday April 25), we have seen 1710, 6389, 12027, 13708, and 13788 new deaths reported each week in the US.
+
+ 
+
+Assign probabilities to the following dates, according to when you expect to see the weekly new reported deaths (as calculated using new reported deaths from Sunday through Saturday) first fall below 5,000. - On Saturday May 16 or May 23",10
+QF3_3,"Using data from the COVID tracker daily reports from the past five weeks (starting with the week ending Saturday March 28, through the week ending Saturday April 25), we have seen 1710, 6389, 12027, 13708, and 13788 new deaths reported each week in the US.
+
+ 
+
+Assign probabilities to the following dates, according to when you expect to see the weekly new reported deaths (as calculated using new reported deaths from Sunday through Saturday) first fall below 5,000. - On Saturday May 30 or June 6",11
+QF3_4,"Using data from the COVID tracker daily reports from the past five weeks (starting with the week ending Saturday March 28, through the week ending Saturday April 25), we have seen 1710, 6389, 12027, 13708, and 13788 new deaths reported each week in the US.
+
+ 
+
+Assign probabilities to the following dates, according to when you expect to see the weekly new reported deaths (as calculated using new reported deaths from Sunday through Saturday) first fall below 5,000. - On Saturday June 6 or June 13",12
+QF3_5,"Using data from the COVID tracker daily reports from the past five weeks (starting with the week ending Saturday March 28, through the week ending Saturday April 25), we have seen 1710, 6389, 12027, 13708, and 13788 new deaths reported each week in the US.
+
+ 
+
+Assign probabilities to the following dates, according to when you expect to see the weekly new reported deaths (as calculated using new reported deaths from Sunday through Saturday) first fall below 5,000. - After June 20th",13
+QF4_1,"https://dhpexternal.dph.ga.gov/ncovreps/daily_rolling_deaths.png
+
+
+ 
+
+Over the last week, stay-at-home restrictions in Georgia have been lifted and some businesses have reopened. Since April 11, Georgia has reported a rolling 7-day average of just under 700 new confirmed cases per day (see figure above). 
+
+
+
+With the knowledge that restrictions may be tightened again or further loosened over the next few weeks, how many new COVID-19 cases per day should Georgia expect to see on average during the time-period of May 10-16? Please report a 10th, 50th and 90th percentile. - 10th percentile",14
+QF4_2,"https://dhpexternal.dph.ga.gov/ncovreps/daily_rolling_deaths.png
+
+
+ 
+
+Over the last week, stay-at-home restrictions in Georgia have been lifted and some businesses have reopened. Since April 11, Georgia has reported a rolling 7-day average of just under 700 new confirmed cases per day (see figure above). 
+
+
+
+With the knowledge that restrictions may be tightened again or further loosened over the next few weeks, how many new COVID-19 cases per day should Georgia expect to see on average during the time-period of May 10-16? Please report a 10th, 50th and 90th percentile. - 50th percentile (median)",15
+QF4_3,"https://dhpexternal.dph.ga.gov/ncovreps/daily_rolling_deaths.png
+
+
+ 
+
+Over the last week, stay-at-home restrictions in Georgia have been lifted and some businesses have reopened. Since April 11, Georgia has reported a rolling 7-day average of just under 700 new confirmed cases per day (see figure above). 
+
+
+
+With the knowledge that restrictions may be tightened again or further loosened over the next few weeks, how many new COVID-19 cases per day should Georgia expect to see on average during the time-period of May 10-16? Please report a 10th, 50th and 90th percentile. - 90th percentile",16
+QF5_1,"Assuming that the restrictions had NOT been loosened and the stay-at-home order had remained in place and businesses remained closed, how many new cases would you have expected Georgia to see per day on average over the time period of May 10-16? Please report a 10th, 50th and 90th percentile. - 10th percentile",17
+QF5_2,"Assuming that the restrictions had NOT been loosened and the stay-at-home order had remained in place and businesses remained closed, how many new cases would you have expected Georgia to see per day on average over the time period of May 10-16? Please report a 10th, 50th and 90th percentile. - 50th percentile (median)",18
+QF5_3,"Assuming that the restrictions had NOT been loosened and the stay-at-home order had remained in place and businesses remained closed, how many new cases would you have expected Georgia to see per day on average over the time period of May 10-16? Please report a 10th, 50th and 90th percentile. - 90th percentile",19
+QF6,"Did you find any of the questions above ambiguous or hard to interpret? If so, please explain here. You may also use this space to provide other feedback.",20
