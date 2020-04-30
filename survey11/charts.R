@@ -15,7 +15,7 @@ distribution_qids <- c("QF1", "QF3")
 # really rough x-axis labels
 config <- hash()
 config[["QF1_title"]] <- "How many cases next Sunday?"
-config[["QF2_title"]] <- "Total current infections?"
+config[["QF2_title"]] <- "Total cumulative infections?"
 config[["QF3_title"]] <- "When will weekly deaths fall below 5000?"
 config[["QF4_title"]] <- "Georgia infections by May 16"
 config[["QF5_title"]] <- "Georgia infections by May 16 if stay at home in place"
@@ -72,18 +72,32 @@ for (qid in response_qids) {
 }
 
 # distribution charts
-for (qid in distribution_qids) {
-  q_probs <- cat_probabilities %>%
-    filter(Q == qid)
 
-    q_probs %>%
-    ggplot(aes(x=cat, y=prob)) +
-      geom_bar(stat="identity", fill="#fccd25") +
-      scale_x_discrete() +
-      scale_y_continuous(labels = scales::percent_format(accuracy=1)) +
-      ggtitle("") +
-      xlab(config[[paste(qid,"title",sep="_")]]) +
-      ylab("Probability") +
-      theme_538
-  ggsave(paste(qid, "_distribution.png", sep=''))
-}
+q_probs_1 <- cat_probabilities %>%
+  filter(Q == "QF1")
+
+q_probs_1 %>%
+  ggplot(aes(x=cat, y=prob)) +
+  geom_bar(stat="identity", fill="#fccd25") +
+  scale_x_discrete() +
+  scale_y_continuous(labels = scales::percent_format(accuracy=1)) +
+  ggtitle("") +
+  xlab(config[[paste(qid,"title",sep="_")]]) +
+  ylab("Probability") +
+  theme_538
+ggsave(paste(qid, "_distribution.png", sep=''))
+
+q_probs_2 <- cat_probabilities %>%
+  filter(Q == "QF3")
+
+q_probs_2 %>%
+  ggplot(aes(x=cat, y=prob)) +
+    geom_bar(stat="identity", fill="#fccd25") +
+    scale_x_discrete() +
+    scale_y_continuous(labels = scales::percent_format(accuracy=1)) +
+    ggtitle("") +
+    xlab(config[[paste(qid,"title",sep="_")]]) +
+    ylab("Probability") +
+    theme_538
+ggsave(paste(qid, "_distribution.png", sep=''))
+
