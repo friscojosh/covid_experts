@@ -1,0 +1,139 @@
+questionLabel,questionText,QID
+Q0-1,"You are being invited to participate in a research study titled Aggregating expert opinion on COVID-19.  This study is being run by Thomas McAndrew and Nicholas G. Reich from the University of Massachusetts Amherst.  You were selected to participate in this study because you have been identified as an expert in infectious disease epidemiology, dynamics, and/or modeling. The purpose of this research study is to build a consensus of expert predictions related to the emerging COVID-19 outbreak. At the current time, the survey focuses on risks posed by COVID-19 to the United States.  To the best of our ability your specific answers in this study will remain confidential. Data that links your identity with your responses will be stored on a secure server. Data will be de-identified before analysis or sharing. Data on anonymized individual expert responses as well as aggregated responses may be presented in analyses or shared by the research team.  To lend credence to our results, we will release a list with the names and professional affiliations of all respondents. We believe this is critical to ensuring that the results of this study can be seen as representing a consensus opinion among experts in the field. 
+
+ 
+
+The UMass IRB has determined that this study does not qualify as human subjects research. 
+
+ 
+
+By clicking “I agree” below, you are giving us permission to send you weekly surveys and list your name and affiliation (which you will enter on the next page) as part of the public-facing results of this study. Experts names will be listed after participating in two surveys. We will also include participation rates for each expert in these releases. You may decide to not participate further at any time by sending an email to Tom McAndrew at mcandrew@umass.edu.",0
+QF1_1,"As shown in the table and figure above, COVID Tracker reported 1,152,006 total confirmed cases of COVID-19 in the US as of Monday, May 4th at 9am. 
+
+ 
+
+How many total confirmed cases of COVID-19 in the U.S. will The COVID Tracking Project report as of Sunday 10 May 2020?
+
+ 
+
+We provided a set of ranges of possible positive cases. Assign a probability to each bin corresponding to your belief of how many cases will be reported next Sunday. Each number must be between 0 and 1 and all numbers provided must sum to 1. - Less than or equal to 1,200,000",1
+QF1_2,"As shown in the table and figure above, COVID Tracker reported 1,152,006 total confirmed cases of COVID-19 in the US as of Monday, May 4th at 9am. 
+
+ 
+
+How many total confirmed cases of COVID-19 in the U.S. will The COVID Tracking Project report as of Sunday 10 May 2020?
+
+ 
+
+We provided a set of ranges of possible positive cases. Assign a probability to each bin corresponding to your belief of how many cases will be reported next Sunday. Each number must be between 0 and 1 and all numbers provided must sum to 1. - Between 1,200,000 and 1,250,000, inclusive",2
+QF1_3,"As shown in the table and figure above, COVID Tracker reported 1,152,006 total confirmed cases of COVID-19 in the US as of Monday, May 4th at 9am. 
+
+ 
+
+How many total confirmed cases of COVID-19 in the U.S. will The COVID Tracking Project report as of Sunday 10 May 2020?
+
+ 
+
+We provided a set of ranges of possible positive cases. Assign a probability to each bin corresponding to your belief of how many cases will be reported next Sunday. Each number must be between 0 and 1 and all numbers provided must sum to 1. - More than 1,250,000 but less than 1,300,000",3
+QF1_4,"As shown in the table and figure above, COVID Tracker reported 1,152,006 total confirmed cases of COVID-19 in the US as of Monday, May 4th at 9am. 
+
+ 
+
+How many total confirmed cases of COVID-19 in the U.S. will The COVID Tracking Project report as of Sunday 10 May 2020?
+
+ 
+
+We provided a set of ranges of possible positive cases. Assign a probability to each bin corresponding to your belief of how many cases will be reported next Sunday. Each number must be between 0 and 1 and all numbers provided must sum to 1. - Between 1,300,000 and 1,350,000, inclusive",4
+QF1_5,"As shown in the table and figure above, COVID Tracker reported 1,152,006 total confirmed cases of COVID-19 in the US as of Monday, May 4th at 9am. 
+
+ 
+
+How many total confirmed cases of COVID-19 in the U.S. will The COVID Tracking Project report as of Sunday 10 May 2020?
+
+ 
+
+We provided a set of ranges of possible positive cases. Assign a probability to each bin corresponding to your belief of how many cases will be reported next Sunday. Each number must be between 0 and 1 and all numbers provided must sum to 1. - More than 1,350,000 but less than 1,400,000",5
+QF1_6,"As shown in the table and figure above, COVID Tracker reported 1,152,006 total confirmed cases of COVID-19 in the US as of Monday, May 4th at 9am. 
+
+ 
+
+How many total confirmed cases of COVID-19 in the U.S. will The COVID Tracking Project report as of Sunday 10 May 2020?
+
+ 
+
+We provided a set of ranges of possible positive cases. Assign a probability to each bin corresponding to your belief of how many cases will be reported next Sunday. Each number must be between 0 and 1 and all numbers provided must sum to 1. - Between 1,400,000 and 1,450,000, inclusive",6
+QF1_7,"As shown in the table and figure above, COVID Tracker reported 1,152,006 total confirmed cases of COVID-19 in the US as of Monday, May 4th at 9am. 
+
+ 
+
+How many total confirmed cases of COVID-19 in the U.S. will The COVID Tracking Project report as of Sunday 10 May 2020?
+
+ 
+
+We provided a set of ranges of possible positive cases. Assign a probability to each bin corresponding to your belief of how many cases will be reported next Sunday. Each number must be between 0 and 1 and all numbers provided must sum to 1. - More than 1,450,000",7
+QF2_1,"How many US states, territories and jurisdictions  (50 states plus District of Columbia, Guam, the Northern Mariana Islands, Puerto Rico, and the U.S Virgin Islands.) will report more new COVID-19 cases for September 2020 than for June 2020? - Fewer than 4",8
+QF2_2,"How many US states, territories and jurisdictions  (50 states plus District of Columbia, Guam, the Northern Mariana Islands, Puerto Rico, and the U.S Virgin Islands.) will report more new COVID-19 cases for September 2020 than for June 2020? - Between 4 and 11",9
+QF2_3,"How many US states, territories and jurisdictions  (50 states plus District of Columbia, Guam, the Northern Mariana Islands, Puerto Rico, and the U.S Virgin Islands.) will report more new COVID-19 cases for September 2020 than for June 2020? - Between 12 and 19",10
+QF2_4,"How many US states, territories and jurisdictions  (50 states plus District of Columbia, Guam, the Northern Mariana Islands, Puerto Rico, and the U.S Virgin Islands.) will report more new COVID-19 cases for September 2020 than for June 2020? - Between 20 and 27",11
+QF2_5,"How many US states, territories and jurisdictions  (50 states plus District of Columbia, Guam, the Northern Mariana Islands, Puerto Rico, and the U.S Virgin Islands.) will report more new COVID-19 cases for September 2020 than for June 2020? - Between 28 and 35",12
+QF2_6,"How many US states, territories and jurisdictions  (50 states plus District of Columbia, Guam, the Northern Mariana Islands, Puerto Rico, and the U.S Virgin Islands.) will report more new COVID-19 cases for September 2020 than for June 2020? - Between 36 and 43",13
+QF2_7,"How many US states, territories and jurisdictions  (50 states plus District of Columbia, Guam, the Northern Mariana Islands, Puerto Rico, and the U.S Virgin Islands.) will report more new COVID-19 cases for September 2020 than for June 2020? - 44 or more",14
+QF3_1,"On 1 May 2020, Texas lifted its stay-at-home restrictions and began allowing some businesses to reopen so long as they follow a minimum standard health protocol set by the state and limit their occupancy (link: https://dshs.texas.gov/coronavirus/).
+
+ 
+
+What will the 7 day average number of new positive cases of COVID-19 be in Texas (figure above generated from data reported by the Texas Dept. of Health) for the week ending June 13th 2020, as reported by the Texas Dept. of Health?
+
+
+
+Assign a probability to each bin corresponding to your belief of the average number of new positive cases per day in Texas - Less than 675",15
+QF3_2,"On 1 May 2020, Texas lifted its stay-at-home restrictions and began allowing some businesses to reopen so long as they follow a minimum standard health protocol set by the state and limit their occupancy (link: https://dshs.texas.gov/coronavirus/).
+
+ 
+
+What will the 7 day average number of new positive cases of COVID-19 be in Texas (figure above generated from data reported by the Texas Dept. of Health) for the week ending June 13th 2020, as reported by the Texas Dept. of Health?
+
+
+
+Assign a probability to each bin corresponding to your belief of the average number of new positive cases per day in Texas - Between 675 and 900, inclusive",16
+QF3_3,"On 1 May 2020, Texas lifted its stay-at-home restrictions and began allowing some businesses to reopen so long as they follow a minimum standard health protocol set by the state and limit their occupancy (link: https://dshs.texas.gov/coronavirus/).
+
+ 
+
+What will the 7 day average number of new positive cases of COVID-19 be in Texas (figure above generated from data reported by the Texas Dept. of Health) for the week ending June 13th 2020, as reported by the Texas Dept. of Health?
+
+
+
+Assign a probability to each bin corresponding to your belief of the average number of new positive cases per day in Texas - More than 900 but less than 1,350",17
+QF3_4,"On 1 May 2020, Texas lifted its stay-at-home restrictions and began allowing some businesses to reopen so long as they follow a minimum standard health protocol set by the state and limit their occupancy (link: https://dshs.texas.gov/coronavirus/).
+
+ 
+
+What will the 7 day average number of new positive cases of COVID-19 be in Texas (figure above generated from data reported by the Texas Dept. of Health) for the week ending June 13th 2020, as reported by the Texas Dept. of Health?
+
+
+
+Assign a probability to each bin corresponding to your belief of the average number of new positive cases per day in Texas - Between 1,350 and 1,800, inclusive",18
+QF3_5,"On 1 May 2020, Texas lifted its stay-at-home restrictions and began allowing some businesses to reopen so long as they follow a minimum standard health protocol set by the state and limit their occupancy (link: https://dshs.texas.gov/coronavirus/).
+
+ 
+
+What will the 7 day average number of new positive cases of COVID-19 be in Texas (figure above generated from data reported by the Texas Dept. of Health) for the week ending June 13th 2020, as reported by the Texas Dept. of Health?
+
+
+
+Assign a probability to each bin corresponding to your belief of the average number of new positive cases per day in Texas - More than 1,800",19
+QF4_1,"Assuming restrictions had NOT been loosened and the stay-at-home order had remained in place and businesses remained closed, what is the 7 day average number of new positive cases of COVID-19 in Texas you would have expected to see for the week ending June 13th 2020?
+Assign a probability to each bin corresponding to your belief of the average number of new positive cases per day in Texas - Less than 675",20
+QF4_2,"Assuming restrictions had NOT been loosened and the stay-at-home order had remained in place and businesses remained closed, what is the 7 day average number of new positive cases of COVID-19 in Texas you would have expected to see for the week ending June 13th 2020?
+Assign a probability to each bin corresponding to your belief of the average number of new positive cases per day in Texas - Between 675 and 900, inclusive",21
+QF4_3,"Assuming restrictions had NOT been loosened and the stay-at-home order had remained in place and businesses remained closed, what is the 7 day average number of new positive cases of COVID-19 in Texas you would have expected to see for the week ending June 13th 2020?
+Assign a probability to each bin corresponding to your belief of the average number of new positive cases per day in Texas - More than 900 but less than 1,350",22
+QF4_4,"Assuming restrictions had NOT been loosened and the stay-at-home order had remained in place and businesses remained closed, what is the 7 day average number of new positive cases of COVID-19 in Texas you would have expected to see for the week ending June 13th 2020?
+Assign a probability to each bin corresponding to your belief of the average number of new positive cases per day in Texas - Between 1,350 and 1,800, inclusive",23
+QF4_5,"Assuming restrictions had NOT been loosened and the stay-at-home order had remained in place and businesses remained closed, what is the 7 day average number of new positive cases of COVID-19 in Texas you would have expected to see for the week ending June 13th 2020?
+Assign a probability to each bin corresponding to your belief of the average number of new positive cases per day in Texas - More than 1,800",24
+QF5_1,"As of Sunday, May 3, 2020, 61,868 deaths from COVID-19 have been reported in the US in 2020. How many deaths due to COVID-19 will occur in the US in 2020? Please report a 10th, 50th and 90th percentile, in other words a 80% confidence interval and a median. - 10th percentile",25
+QF5_2,"As of Sunday, May 3, 2020, 61,868 deaths from COVID-19 have been reported in the US in 2020. How many deaths due to COVID-19 will occur in the US in 2020? Please report a 10th, 50th and 90th percentile, in other words a 80% confidence interval and a median. - 50th percentile (median)",26
+QF5_3,"As of Sunday, May 3, 2020, 61,868 deaths from COVID-19 have been reported in the US in 2020. How many deaths due to COVID-19 will occur in the US in 2020? Please report a 10th, 50th and 90th percentile, in other words a 80% confidence interval and a median. - 90th percentile",27
+QF6,"Did you find any of the questions above ambiguous or hard to interpret? If so, please explain here. You may also use this space to provide other feedback.",28

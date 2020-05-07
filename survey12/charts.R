@@ -14,10 +14,10 @@ response_qids <- c("QF5")
 
 # really rough x-axis labels
 config <- hash()
-config[["QF1_title"]] <- "How many confirmed cases May 10?"
-config[["QF2_title"]] <- "How many states will report new infections?"
-config[["QF3_title"]] <- "How many new positive cases in Texas?"
-config[["QF4_title"]] <- "If Texas had not relaxed, how many new cases?"
+title1 <- "How many confirmed cases May 10?"
+title2 <- "How many states will report new infections?"
+title3 <- "How many new positive cases in Texas?"
+title4 <- "If Texas had not relaxed, how many new cases?"
 config[["QF5_title"]] <- "How many deaths in 2020?"
 
 # Cleaned responses, produced via prep.R
@@ -82,7 +82,7 @@ q_probs_1 %>%
   scale_x_discrete() +
   scale_y_continuous(labels = scales::percent_format(accuracy=1)) +
   ggtitle("") +
-  xlab(config[[paste(qid,"title",sep="_")]]) +
+  xlab(title1) +
   ylab("Probability") +
   theme_538
 ggsave("QF1_distribution.png")
@@ -96,13 +96,13 @@ q_probs_2 %>%
     scale_x_discrete() +
     scale_y_continuous(labels = scales::percent_format(accuracy=1)) +
     ggtitle("") +
-    xlab(config[[paste(qid,"title",sep="_")]]) +
+    xlab(title2) +
     ylab("Probability") +
     theme_538
 ggsave("QF2_distribution.png")
 
 q_probs_3 <- cat_probabilities %>%
-  filter(Q == "QF2")
+  filter(Q == "QF3")
 
 q_probs_3 %>%
   ggplot(aes(x=cat, y=prob)) +
@@ -110,7 +110,7 @@ q_probs_3 %>%
   scale_x_discrete() +
   scale_y_continuous(labels = scales::percent_format(accuracy=1)) +
   ggtitle("") +
-  xlab(config[[paste(qid,"title",sep="_")]]) +
+  xlab(title3) +
   ylab("Probability") +
   theme_538
 ggsave("QF3_distribution.png")
@@ -124,7 +124,7 @@ q_probs_4 %>%
   scale_x_discrete() +
   scale_y_continuous(labels = scales::percent_format(accuracy=1)) +
   ggtitle("") +
-  xlab(config[[paste(qid,"title",sep="_")]]) +
+  xlab(title4) +
   ylab("Probability") +
   theme_538
 ggsave("QF4_distribution.png")
