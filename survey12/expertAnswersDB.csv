@@ -52,8 +52,8 @@ probCat,0.3,3,21,QF4_2
 probCat,0.1,3,22,QF4_3
 probCat,0.08,3,23,QF4_4
 probCat,0.02,3,24,QF4_5
-triplet_low,50000,3,25,QF5_1
-triplet_mode,95000,3,26,QF5_2
+triplet_low,95000,3,25,QF5_1
+triplet_mode,150000,3,26,QF5_2
 triplet_high,350000,3,27,QF5_3
 informedconset,I agree,4,0,Q0-1
 probCat,0,4,1,QF1_1
