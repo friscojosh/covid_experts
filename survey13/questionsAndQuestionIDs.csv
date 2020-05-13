@@ -1,0 +1,128 @@
+questionLabel,questionText,QID
+Q0-1,"You are being invited to participate in a research study titled Aggregating expert opinion on COVID-19.  This study is being run by Thomas McAndrew and Nicholas G. Reich from the University of Massachusetts Amherst.  You were selected to participate in this study because you have been identified as an expert in infectious disease epidemiology, dynamics, and/or modeling. The purpose of this research study is to build a consensus of expert predictions related to the emerging COVID-19 outbreak. At the current time, the survey focuses on risks posed by COVID-19 to the United States.  To the best of our ability your specific answers in this study will remain confidential. Data that links your identity with your responses will be stored on a secure server. Data will be de-identified before analysis or sharing. Data on anonymized individual expert responses as well as aggregated responses may be presented in analyses or shared by the research team.  To lend credence to our results, we will release a list with the names and professional affiliations of all respondents. We believe this is critical to ensuring that the results of this study can be seen as representing a consensus opinion among experts in the field. 
+
+ 
+
+The UMass IRB has determined that this study does not qualify as human subjects research. 
+
+ 
+
+By clicking “I agree” below, you are giving us permission to send you weekly surveys and list your name and affiliation (which you will enter on the next page) as part of the public-facing results of this study. Experts names will be listed after participating in two surveys. We will also include participation rates for each expert in these releases. You may decide to not participate further at any time by sending an email to Tom McAndrew at mcandrew@umass.edu.",0
+QF1_1,"As shown in the table and figure above, COVID Tracker reported 1,322,807 total positive cases of COVID-19 in the US as of Monday, May 11th at 9am. 
+
+ 
+
+What is the number of positive cases in the US that COVID Tracker will have in the daily report this coming Sunday, May 17th?
+
+ 
+
+We provided a set of intervals where the true number of positive cases could fall. Assign a probability to each bin corresponding to your belief of how many cases will be reported next Sunday. Each number must be between 0 and 1 and all numbers provided must sum to 1. - Less than 1,400,000",1
+QF1_2,"As shown in the table and figure above, COVID Tracker reported 1,322,807 total positive cases of COVID-19 in the US as of Monday, May 11th at 9am. 
+
+ 
+
+What is the number of positive cases in the US that COVID Tracker will have in the daily report this coming Sunday, May 17th?
+
+ 
+
+We provided a set of intervals where the true number of positive cases could fall. Assign a probability to each bin corresponding to your belief of how many cases will be reported next Sunday. Each number must be between 0 and 1 and all numbers provided must sum to 1. - Between 1,400,000 and 1,450,000, inclusive",2
+QF1_3,"As shown in the table and figure above, COVID Tracker reported 1,322,807 total positive cases of COVID-19 in the US as of Monday, May 11th at 9am. 
+
+ 
+
+What is the number of positive cases in the US that COVID Tracker will have in the daily report this coming Sunday, May 17th?
+
+ 
+
+We provided a set of intervals where the true number of positive cases could fall. Assign a probability to each bin corresponding to your belief of how many cases will be reported next Sunday. Each number must be between 0 and 1 and all numbers provided must sum to 1. - More than 1,450,000 but less than 1,500,000",3
+QF1_4,"As shown in the table and figure above, COVID Tracker reported 1,322,807 total positive cases of COVID-19 in the US as of Monday, May 11th at 9am. 
+
+ 
+
+What is the number of positive cases in the US that COVID Tracker will have in the daily report this coming Sunday, May 17th?
+
+ 
+
+We provided a set of intervals where the true number of positive cases could fall. Assign a probability to each bin corresponding to your belief of how many cases will be reported next Sunday. Each number must be between 0 and 1 and all numbers provided must sum to 1. - Between 1,500,000 and 1,550,000, inclusive",4
+QF1_5,"As shown in the table and figure above, COVID Tracker reported 1,322,807 total positive cases of COVID-19 in the US as of Monday, May 11th at 9am. 
+
+ 
+
+What is the number of positive cases in the US that COVID Tracker will have in the daily report this coming Sunday, May 17th?
+
+ 
+
+We provided a set of intervals where the true number of positive cases could fall. Assign a probability to each bin corresponding to your belief of how many cases will be reported next Sunday. Each number must be between 0 and 1 and all numbers provided must sum to 1. - More than 1,550,000 but less than 1,600,000",5
+QF1_6,"As shown in the table and figure above, COVID Tracker reported 1,322,807 total positive cases of COVID-19 in the US as of Monday, May 11th at 9am. 
+
+ 
+
+What is the number of positive cases in the US that COVID Tracker will have in the daily report this coming Sunday, May 17th?
+
+ 
+
+We provided a set of intervals where the true number of positive cases could fall. Assign a probability to each bin corresponding to your belief of how many cases will be reported next Sunday. Each number must be between 0 and 1 and all numbers provided must sum to 1. - Between 1,600,000 and 1,650,000, inclusive",6
+QF1_7,"As shown in the table and figure above, COVID Tracker reported 1,322,807 total positive cases of COVID-19 in the US as of Monday, May 11th at 9am. 
+
+ 
+
+What is the number of positive cases in the US that COVID Tracker will have in the daily report this coming Sunday, May 17th?
+
+ 
+
+We provided a set of intervals where the true number of positive cases could fall. Assign a probability to each bin corresponding to your belief of how many cases will be reported next Sunday. Each number must be between 0 and 1 and all numbers provided must sum to 1. - More than 1,650,000",7
+QF2_1,"The state of Pennsylvania (link to DOH) has reported 3,806 deaths as of Monday May 11th by the JHU CSSE COVID-19 Dashboard. How many deaths will be reported on Saturday June 13th (4 weeks ahead), as reported by the JHU CSSE Dashboard? 
+ 
+
+Please report a 10th, 50th and 90th percentile, in other words a 80% confidence interval and a median. - 10th percentile",8
+QF2_2,"The state of Pennsylvania (link to DOH) has reported 3,806 deaths as of Monday May 11th by the JHU CSSE COVID-19 Dashboard. How many deaths will be reported on Saturday June 13th (4 weeks ahead), as reported by the JHU CSSE Dashboard? 
+ 
+
+Please report a 10th, 50th and 90th percentile, in other words a 80% confidence interval and a median. - 50th percentile (median)",9
+QF2_3,"The state of Pennsylvania (link to DOH) has reported 3,806 deaths as of Monday May 11th by the JHU CSSE COVID-19 Dashboard. How many deaths will be reported on Saturday June 13th (4 weeks ahead), as reported by the JHU CSSE Dashboard? 
+ 
+
+Please report a 10th, 50th and 90th percentile, in other words a 80% confidence interval and a median. - 90th percentile",10
+QF3_1,"Stay-home-orders were extended in Washington state until at least May 31st, and the state entered phase one of four phases of their “Safe Start” reopening on May 4. The first phase allows some recreation and construction to reopen and the state will remain in each phase for a minimum of three weeks. Five counties in Washington, with less than 75,000 residents and no new reported cases in the past three weeks, were allowed to begin phase 2. To aid your forecast, the Washington DOH provides a detailed dashboard here. 
+
+
+
+
+
+
+
+Given the information above about current orders in Washington state, and accounting for any updates over the coming weeks, what will be the seven day average of new cases per day for the week of June 1, 2020 through June 7, 2020?
+
+
+
+Please report a 10th, 50th and 90th percentile, in other words a 80% confidence interval and a median. - 10th percentile",11
+QF3_2,"Stay-home-orders were extended in Washington state until at least May 31st, and the state entered phase one of four phases of their “Safe Start” reopening on May 4. The first phase allows some recreation and construction to reopen and the state will remain in each phase for a minimum of three weeks. Five counties in Washington, with less than 75,000 residents and no new reported cases in the past three weeks, were allowed to begin phase 2. To aid your forecast, the Washington DOH provides a detailed dashboard here. 
+
+
+
+
+
+
+
+Given the information above about current orders in Washington state, and accounting for any updates over the coming weeks, what will be the seven day average of new cases per day for the week of June 1, 2020 through June 7, 2020?
+
+
+
+Please report a 10th, 50th and 90th percentile, in other words a 80% confidence interval and a median. - 50th percentile (median)",12
+QF3_3,"Stay-home-orders were extended in Washington state until at least May 31st, and the state entered phase one of four phases of their “Safe Start” reopening on May 4. The first phase allows some recreation and construction to reopen and the state will remain in each phase for a minimum of three weeks. Five counties in Washington, with less than 75,000 residents and no new reported cases in the past three weeks, were allowed to begin phase 2. To aid your forecast, the Washington DOH provides a detailed dashboard here. 
+
+
+
+
+
+
+
+Given the information above about current orders in Washington state, and accounting for any updates over the coming weeks, what will be the seven day average of new cases per day for the week of June 1, 2020 through June 7, 2020?
+
+
+
+Please report a 10th, 50th and 90th percentile, in other words a 80% confidence interval and a median. - 90th percentile",13
+QF4_1,"If an accelerated restart in Washington allowed all counties to enter Phase 2 on May 16, 2020 (and was not rescinded before June 1, 2020), what will be the seven day average of new cases per day for the week of June 1, 2020 through June 7, 2020? - 10th percentile",14
+QF4_2,"If an accelerated restart in Washington allowed all counties to enter Phase 2 on May 16, 2020 (and was not rescinded before June 1, 2020), what will be the seven day average of new cases per day for the week of June 1, 2020 through June 7, 2020? - 50th percentile (median)",15
+QF4_3,"If an accelerated restart in Washington allowed all counties to enter Phase 2 on May 16, 2020 (and was not rescinded before June 1, 2020), what will be the seven day average of new cases per day for the week of June 1, 2020 through June 7, 2020? - 90th percentile",16
+QF5,"Did you find any of the questions above ambiguous or hard to interpret? If so, please explain here. You may also use this space to provide other feedback.",17
